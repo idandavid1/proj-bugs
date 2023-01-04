@@ -1,0 +1,38 @@
+:root {
+    /* bp */
+    --xxs: 320px;
+    --xs: 481px;
+    --s: 768px;
+    --m: 1025px;
+    --l: 1281px;
+}
+
+.layout {
+    max-width: var(--xxs);
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  @media (min-width: 481px) {
+    .layout {
+      max-width: var(--xs);
+    }
+  }
+  
+  @media (min-width: 768px) {
+    .layout {
+      max-width: var(--s);
+    }
+  }
+  
+  @media (min-width: 1025px) {
+    .layout {
+      max-width: var(--m);
+    }
+  }
+  
+  @media (min-width: 1281px) {
+    .layout {
+      max-width: var(--l);
+    }
+  }

@@ -1,0 +1,22 @@
+
+.bug-edit {
+    min-height: 84vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+}
+
+.bug-edit input, textarea{
+    height: 50px;
+    width: 200px;
+}
+
+.bug-edit div{
+    display: flex;
+    gap: 50px;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+

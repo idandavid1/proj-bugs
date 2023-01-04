@@ -1,0 +1,31 @@
+
+
+.bug-preview {
+    background-color: #333;
+    color: whitesmoke;
+    border-radius: .2em;
+    margin: 5px;
+    text-align: center;
+    padding: 5px;
+    display: flex;
+    flex-direction:column ;
+    justify-content: space-between;
+}
+
+.bug-preview .btn-container {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.bug-preview .btn-container button {
+    background-color: aqua;
+    cursor: pointer;
+    font-size: large;
+    padding: 5px;
+}
+
+.bug-preview .btn-container button a{
+    color: black;
+    text-decoration: none;
+}

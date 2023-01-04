@@ -1,0 +1,17 @@
+
+header {
+    background-color: lightskyblue;
+    height: 10vh;
+}
+
+header .AppHeader {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100%;
+}
+
+h1, h2 {
+    margin: 0;
+    padding: 0;
+}

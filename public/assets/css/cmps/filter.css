@@ -1,0 +1,26 @@
+
+.bug-filter input{
+    width: 200px;
+    height: 50px;
+    border-radius: 10px;
+    margin-left: 10px;
+}
+
+.bug-filter div{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.bug-filter{
+    background-color:burlywood;
+    padding: 20px;
+    border-radius: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.bug-filter button{
+    background-color: aqua;
+    font-size: large;
+    padding: 5px;
+}

@@ -1,0 +1,50 @@
+[
+    {
+        "_id" : "abc123",
+        "title" : "Cannot save a Car",
+        "description" : "problem when clicking Save",
+        "severity" : 3,
+        "createdAt" : 1542107359454,
+        "labels": ["car", "bug"],
+        "creator": {
+        "_id": "u101",
+        "fullname": "Puki Ka"
+        }
+    },
+    {
+        "_id" : "abc124",
+        "title" : "Cannot save a Car",
+        "description" : "problem when clicking Save",
+        "severity" : 4,
+        "createdAt" : 1542107359454,
+        "labels": ["car", "bug"],
+        "creator": {
+        "_id": "u101",
+        "fullname": "Puki Ka"
+        }
+    },
+    {
+        "_id" : "abc125",
+        "title" : "Cannot save a Car",
+        "description" : "problem when clicking Save",
+        "severity" : 6,
+        "createdAt" : 1542107359454,
+        "labels": ["car", "bug"],
+        "creator": {
+        "_id": "u101",
+        "fullname": "Puki Ka"
+        }
+    },
+    {
+        "_id" : "abc126",
+        "title" : "Cannot save a Car",
+        "description" : "problem when clicking Save",
+        "severity" : 5,
+        "createdAt" : 1542107359454,
+        "labels": ["car", "bug"],
+        "creator": {
+        "_id": "hfm7g",
+        "fullname": "Idan David"
+        }
+    }
+]
